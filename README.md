@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hi there! I'm Romar
+🛠️ Cybersecurity Engineer
+
+- 🌐 Working with Firewalls, NAC, Proxy, VPN and more.
+- 🐍 Learning Python to automate & enhance security measures.
+- 🎯 Penetration Testing Enthusiast
 
 <!--
 **romarroca/romarroca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
